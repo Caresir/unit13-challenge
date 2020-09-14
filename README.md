@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Caresir Gonzales</h1>
+<h3 align="center">A passionate data analysis FinTech student</h3>
+
+- 🔭 I’m currently working on [cryptocurrencies investment portfolio](https://github.com/Caresir/unit13-challenge.git)
+
+- 🌱 I’m currently learning **Deep Learning**
+
 # unit13-challenge
 
 
