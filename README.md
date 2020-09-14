@@ -18,6 +18,11 @@ Clean and prepped data
 ![ezgif com-optimize](https://user-images.githubusercontent.com/65876783/93118000-37794880-f685-11ea-95d4-4a1a34af214c.gif)
 Prepare data for dimension reduction with PCA and clustering using K-Means.
 
+<img width="344" alt="PCA" src="https://user-images.githubusercontent.com/65876783/93130264-ea52a200-f697-11ea-9f71-fb1d2a42ea7e.png">
+
+<img width="695" alt="elbow curve" src="https://user-images.githubusercontent.com/65876783/93130356-0a826100-f698-11ea-934d-c117136330e3.png">
+
+<img width="540" alt="kmeans" src="https://user-images.githubusercontent.com/65876783/93130309-f9395480-f697-11ea-8df4-a955108aab7a.png">
 
 Reducing Data Dimensions Using PCA: Reduce data dimension using the PCA algorithm from sklearn.
 
