@@ -27,6 +27,13 @@ Clustering Cryptocurrencies Using K-Means: Predict clusters using the cryptocurr
 
 Visualizing Results: Create some plots and data tables to present your results.
 
+![newplot](https://user-images.githubusercontent.com/65876783/93129293-5d5b1900-f696-11ea-9bef-1830a4a13a89.png)
+
+<img width="697" alt="tradable table" src="https://user-images.githubusercontent.com/65876783/93129253-53391a80-f696-11ea-8662-7b7c50fadd5d.png">
+
+<img width="494" alt="2D Scatter Plot" src="https://user-images.githubusercontent.com/65876783/93129219-474d5880-f696-11ea-9404-2e5636ea73d5.png">
+
+
 
 Optional Challenge: Deploy your notebook to Amazon SageMaker.
 
